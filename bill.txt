@@ -1,0 +1,11 @@
+                Electricity Bill - March                
+----------------------------------------------------
+Name: Kritika Modi
+Address: Bhubaneswar
+Meter No: 9
+Previous Reading: 750
+Current Reading: 987
+Units Consumed: 237
+Total Amount: ₹711.00
+Payment Due Date: 10th April
+----------------------------------------------------
