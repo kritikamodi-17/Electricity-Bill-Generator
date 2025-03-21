@@ -13,7 +13,7 @@ body = body.encode("utf-8").decode("utf-8")
 
 # Sender email credentials
 sender_email = "kritikamodi766@gmail.com"
-password = "tzob ldgt clue sbzh"  # Use an App Password, NOT your normal password
+password = "XXX"  # Use an App Password, NOT your normal password
 
 message = f"""From: {sender_email}
 To: {recipient}
